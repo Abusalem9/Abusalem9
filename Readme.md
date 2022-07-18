@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **JAVA Backend**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://abusalem.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://abusalemm.netlify.app/)
 
 - 👯 I’m looking to collaborate on **competitive programming.**
 
