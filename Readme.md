@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abusalem9" alt="Abusalem9" /></a> </p>
 
-- 🌱 I’m currently learning **JAVA Backend**
+- 🌱 I’m working as a software engineer **JAVA Backend**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://abusalemm.netlify.app/)
 
